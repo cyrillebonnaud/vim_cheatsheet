@@ -1,6 +1,6 @@
-My Vim Cheatsheet
+# My Vim Cheatsheet
 
-# Folding
+## Folding
 
 | Command       | Purpose                                     |
 | ------------- |-------------------------------------------- |
